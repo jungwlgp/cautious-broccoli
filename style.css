@@ -1,0 +1,99 @@
+#wrap {width: 1096px; height: 6000px; margin: 0 auto;}
+			#title {text-align: center; font-family: 'Antic Didone', serif; line-height: 2; font-size: 120px;}
+
+			#navigation {text-align: center;
+				margin-top: px; 
+				font-size: 40px; 
+				margin-bottom: 40px;}
+
+			#navi1 {margin-right: 20px;}
+			#navi2 {margin-right: 20px;}
+			#navi3 {margin-right: 20px;}
+
+			#header {text-align: center; font-size: 48px; margin-top: -50px; margin-bottom: 30px;
+				font-family: 'Gothic A1', sans-serif;}
+
+			#a { border-top: 2px solid black;
+				border-left: 2px solid black;
+				border-right: 2px solid black;
+				float: left; }
+
+		#b {border-right: 2px solid black; 
+				height: 473px; font-size: 25px;
+				border-top: 2px solid black;
+				font-family: 'Gothic A1', sans-serif;}
+
+			#b-desc {padding-top: 50px;}
+
+			#c {border-top: 2px solid black;
+				border-left: 2px solid black;
+				border-right: 2px solid black;
+				border-bottom: 2px solid black;}
+
+			#d {border-left: 2px solid black;
+				border-right: 2px solid black;
+				float: left;
+				height: 600px;}
+
+			#e {border-right: 2px solid black;
+				float: right;
+				margin-top: 130px;}
+
+			#f {border-top: 2px solid black;
+				float: left;
+				border-right: 2px solid black;
+				border-left: 2px solid black;
+				width: 1091px;}
+
+			#g {display: inline-block;
+				float: right;
+				border-left: 2px solid black;
+				padding-left: 100px;}
+
+
+			#h {border-top: 2px solid black;
+				border-bottom: 2px solid black;
+				font-size: 25px;
+				float: left;
+				width: 1096px;
+				font-family: 'Gothic A1', sans-serif;}
+				
+			p {text-align: center;}
+				
+			#i {text-align: center;
+				border-right: 2px solid black;
+				border-left: 2px solid black;
+				border-bottom: 2px solid black;
+				}
+
+			#i_1 {text-align: center;
+				font-size: 25px;
+				border-bottom: 2px solid black;}
+
+			#j {border-bottom: 2px solid black; 
+				float: left;}
+
+
+			#k {text-align: center;
+				border-bottom: 2px solid black;
+				float: left;
+				font-size: 25px;
+				width: 1091px;
+				font-family: 'Gothic A1', sans-serif;}
+
+			#l {border-bottom: 2px solid black;
+				float: left;}
+
+			#m {border-bottom: 2px solid black;
+				float: left;}
+
+			#n {float: left;}
+
+			
+
+			.clear {clear-both;}
+
+			#footer {clear: both;
+				border-top: 2px solid black;
+				font-size: 25px;}
+			
